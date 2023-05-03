@@ -17,10 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am an incoming Ph.D. candidate at School of Informatics, Nagoya University.
+Hello, I am an incoming Ph.D. candidate at School of Informatics, Nagoya University from Oct. 2023. I cannot wait to move to Nagoya which is the third biggest city in Japan. During my Ph.D. candidate, I will be advised by [Dr. Tomoki Toda](https://sites.google.com/site/tomokitoda/).
 
+I am now working on emotional TTS, especially based on style transfer methods. Moreover, I am considering to apply ETTS models on the interdisciplinary applications.
 
-My research interest includes speech processing and emotional Text-to-speech. I have published some interesting papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from [Center of Intelligent Acoustics and Immersive Communications](https://ciaic.org/), Northwestern Polytechnical University with a bachelor’s degree, advised by [Jie Chen](http://www.jie-chen.com/) (陈捷教授). Under his supervision, I mainly researched on audio-visual voice activity detection. This is also why I am enthusiastic about speech processing.
+
+I won the Graduate School Scholarship in my master. Moreover, I have been selected as a fellow in Nagoya University during my Ph.D., and the monthly payment is 180000 JPY!
+
+My research interest includes speech processing and speech synthesis, especially in emotional Text-to-Speech. I have published some interesting papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -33,16 +38,16 @@ My research interest includes speech processing and emotional Text-to-speech. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Improving Heart Rate Range Classification Using Doppler Radar with GAN-based Data Augmentation]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Danyuan Yu**, Mondher Bouazizi, Tomoaki Ohtsuki
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Improving Heart Rate Range Classification Using Doppler Radar with GAN-based Data Augmentation](), Danyuan Yu, Mondher Bouazizi, Tomoaki Ohtsuki, **GLOBECOM 2023**
 
 # 🎖 Honors and Awards
 - *2023.10 - 2026.09* Interdisciplinary Frontier Fellow, Nagoya University. (Monthly 180000 JPY!)
@@ -57,5 +62,5 @@ My research interest includes speech processing and emotional Text-to-speech. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships -->
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
