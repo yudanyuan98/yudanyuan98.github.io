@@ -55,6 +55,7 @@ My research interest includes speech processing and speech synthesis, especially
 - *2016.11* Freshmen Soccer Championship. 
 
 # 📖 Educations
+- *2021.09 - 2023.09*, Master of Science, Keio University. 
 - *2018.07 - 2018.09*, Summer school, City University of Hong Kong. 
 - *2016.09 - 2020.07*, Bachelor of Engineering, Xi'an Jiaotong University (XJTU). 
 
