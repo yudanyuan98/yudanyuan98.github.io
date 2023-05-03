@@ -27,6 +27,8 @@ I won the Graduate School Scholarship in my master. Moreover, I have been select
 
 My research interest includes speech processing and speech synthesis, especially in emotional Text-to-Speech. I have published some interesting papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+You can also find my CV [here]().
+
 
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 I attended a domestic seminar to present my research about GAN-based data augmentation of HR range classification via Doppler radar. 
